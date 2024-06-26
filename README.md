@@ -74,7 +74,7 @@ The **Image Captioning** project aims to enhance the BLIP model's performance th
 ### Example 1
 
 #### Uploaded Image
-![Example Image 1](examples/image1.jpg)
+![Example Image 1](images/image1.png)
 
 #### Generated Caption
 *"A cat sitting on a window sill looking outside."*
@@ -82,7 +82,7 @@ The **Image Captioning** project aims to enhance the BLIP model's performance th
 ### Example 2
 
 #### Uploaded Image
-![Example Image 2](examples/image2.jpg)
+![Example Image 2](images/image2.png)
 
 #### Generated Caption
 *"A group of people hiking up a mountain trail."*
