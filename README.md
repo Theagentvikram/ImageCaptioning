@@ -67,7 +67,7 @@ The **Image Captioning** project aims to enhance the BLIP model's performance th
 ![Data Flow Diagram](images/dataflow_diagram.png)
 
 ### Collaboration Diagram
-![Collaboration Diagram](images/collaboration_diagram.png)
+![Collaboration Diagram](images/collabaration_diagram.png)
 
 ## 📝 Examples
 
