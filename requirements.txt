@@ -1,5 +1,5 @@
 streamlit==0.92.0
 transformers==4.9.2
-torch==1.9.0
-torchvision==0.10.0
+torch==1.9.0+cpu
+torchvision==0.10.0+cpu
 Pillow==8.4.0
